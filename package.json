@@ -1,0 +1,19 @@
+{
+  "name": "socket_io",
+  "version": "1.0.0",
+  "description": "projeto de introdução ao socket.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ronald",
+    "socket.io"
+  ],
+  "author": "Ronald Buzaglo Pessoa",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  }
+}
